@@ -1,4 +1,4 @@
-# DIO - Sobre o Desafop
+# DIO - Sobre o Desafio
 
 ## Controle de Fluxo - Desafio
 
